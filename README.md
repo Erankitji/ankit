@@ -31,13 +31,6 @@ Hi, I am *Ankit Gautam* 👋
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats:
-
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit7909&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit7909&layout=compact&theme=radical)
 ---
 
 ## 🔥 Get in Touch:
